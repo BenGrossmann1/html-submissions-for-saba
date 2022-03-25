@@ -1,0 +1,60 @@
+<html>
+<table border="1">
+
+  <tr>
+    <th>Week</th>
+    <th>    9am-10am   </th>
+    <th>10:15am-11:15am</th>
+    <th>11:30am-12:30pm</th>
+    <th> 1:30pm-2:30pm </th>
+    <th> 2:45pm-3:45pm </th>
+    <th>    4pm-5pm    </th>
+
+  </tr>
+  <tr>
+    <th>Mon</th>
+   <TD bgcolor="yellow"> Work Experience</td>  
+<TD bgcolor="yellow"> Work Experience</td>  
+    <TD bgcolor="yellow"> Work Experience</td>  
+   <TD bgcolor="yellow"> Work Experience</td>  
+    <TD bgcolor="yellow"> Work Experience</td>  
+    <td></td>
+
+  </tr>
+  <tr>
+    <th>Tues</th>
+    <TD bgcolor="blue">Main Subject</td>
+   <TD bgcolor="blue">Main Subject</td>
+<TD bgcolor="blue">Main Subject</td>
+<TD bgcolor="blue">Main Subject</td>
+<TD bgcolor="blue">Main Subject</td>
+<TD bgcolor="blue">Main Subject</td>
+  </tr>
+  <tr>
+    <th>Weds</th>
+    <td> </td>
+    <TD bgcolor="orange">Maths</td>
+<TD bgcolor="lightblue">Project Based Learning</td>
+<TD bgcolor="blue">Main Subject</td>
+<td> </td>
+<td> </td>
+  </tr>
+ <tr>
+<th>Thur</th>
+  <TD bgcolor="red">English</td>
+<TD bgcolor="red">English</td>
+<TD bgcolor="red">English</td>
+<TD bgcolor="purple">Coaching Tutorial</td>
+<TD bgcolor="blue">Main Subject</td>
+<TD bgcolor="blue">Main Subject</td>
+ </td>
+<tr>
+<th>Fri</th>
+<TD bgcolor="blue">Main Subjuect</td>
+<TD bgcolor="blue">Main Subjuect</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</table>
+</html>
